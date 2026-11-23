@@ -8,8 +8,9 @@ Everything — visuals (3-pass Gaussian line-boil sketch renderer, Bezier spline
 
 ## Direct Download
 
-- **Video (MP4, 37.6 MB):** [Download `food_chain_75s.mp4`](https://github.com/catalystberry842-alt/procedural-food-chain-75s/releases/download/v1.0/food_chain_75s.mp4)
-- **Release Page:** [v1.0 Release](https://github.com/catalystberry842-alt/procedural-food-chain-75s/releases/tag/v1.0)
+- **Direct MP4 Download (37.6 MB):** [Download `food_chain_75s.mp4`](https://github.com/catalystberry842-alt/procedural-food-chain-75s/raw/main/food_chain_75s.mp4)
+- **GitHub File Page:** [`food_chain_75s.mp4`](https://github.com/catalystberry842-alt/procedural-food-chain-75s/blob/main/food_chain_75s.mp4)
+- **Python Pipeline Script:** [`food_chain_pipeline.py`](https://github.com/catalystberry842-alt/procedural-food-chain-75s/blob/main/food_chain_pipeline.py)
 
 ## Usage
 
